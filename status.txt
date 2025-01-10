@@ -1,0 +1,10 @@
+Congratulations! You have fulfilled the HEC degree requirements.
+
+Compliance Details:
+General Education: 19/19 - Status: Met
+University Electives: 12/12 - Status: Met
+Mathematics & Science Foundation: 12/12 - Status: Met
+Computing Core: 39/39 - Status: Met
+Domain CS Core: 24/24 - Status: Met
+Domain CS Electives: 15/15 - Status: Met
+Domain CS Supporting: 9/9 - Status: Met
